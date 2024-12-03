@@ -1,0 +1,64 @@
+.dashboard-container {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .table-header {
+    background-color: #f4e1d2; /* Pastel peach */
+    color: #333;
+  }
+  
+  .table-hover tbody tr:hover {
+    background-color: #ffe5d9; /* Light pastel orange */
+  }
+  
+  .search-bar {
+    border: 2px solid #e9cfcf; /* Light pink border */
+    border-radius: 8px;
+  }
+  
+  .btn-primary {
+    background-color: #a4c3b2; /* Pastel green */
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #82b29a; /* Darker pastel green */
+  }
+  
+  .btn-warning {
+    background-color: #ffd166; /* Pastel yellow */
+    border: none;
+  }
+  
+  .btn-warning:hover {
+    background-color: #ffb347;
+  }
+  
+  .btn-danger {
+    background-color: #f28482; /* Pastel red */
+    border: none;
+  }
+  
+  .btn-danger:hover {
+    background-color: #e76f51;
+  }
+  
+  .pagination .page-link {
+    color: #4a4e69; /* Soft purple */
+  }
+  
+  .pagination .page-item.active .page-link {
+    background-color: #6a994e; /* Green highlight */
+    border-color: #6a994e;
+    color: white;
+  }
+  
+  h2 {
+    color: #4a4e69; /* Soft purple for headings */
+  }
+  
+  
