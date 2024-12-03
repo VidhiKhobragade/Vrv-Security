@@ -10,11 +10,17 @@ Key Features:
 
 Add New Users: Add user details with a modal form.
 Edit Existing Users: Update user details in a modal form.
+
 Delete Users: Remove user entries with a single click.
+
 Search Functionality: Search users by name, email, or role.
+
 Sorting: Sort users alphabetically by name, email, or role.
+
 Pagination: Browse user data through pages, improving navigation in larger datasets.
+
 Responsive Design: Fully responsive layout for desktop, tablet, and mobile devices.
+
 Clean Pastel-Themed UI: Improved styling with hover effects and pastel colors for better user experience.
 
 🛠️ Technologies Used
@@ -63,10 +69,12 @@ npm run build
 CRUD Operations:
 
 Add User: Click on the "Add User" button to open a modal. Enter user details and click "Save."
-Edit User: Click the "Edit" button next to a user to open a modal and update details.
-Delete User: Remove a user by clicking the "Delete" button.
-Sorting:
 
+Edit User: Click the "Edit" button next to a user to open a modal and update details.
+
+Delete User: Remove a user by clicking the "Delete" button.
+
+Sorting:
 Click on the column headers (Name, Email, Role) to sort the users alphabetically.
 Toggle between ascending (↑) and descending (↓) order.
 
